@@ -45,6 +45,5 @@ Frontend  → HTML • CSS • JavaScript
 Backend   → .NET • C#
 Tools     → Git • GitHub • VS Code
 
-<p align="center">
   Learning • Building • Growing 💻
-</p>
+
