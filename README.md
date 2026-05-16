@@ -1,6 +1,46 @@
-# 💫 About Me:
-# 👋 Hi, I'm pritam chaudhary<br>🌱 Learning HTML, CSS, JavaScript, and .NET to become a Full Stack Developer.<br><br>💻 Learning and improving my skills in:<br>- HTML<br>- CSS<br>- JavaScript<br>- .NET & C#<br><br>
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)<br><br>
-🚀 I enjoy building simple projects, exploring new technologies, and improving step by step every day.<br><br>🎯 My goal is to become a skilled Full Stack .NET Developer and create useful real-world applications.<br><br>---<br><br>## 🛠 Skills I'm Learning<br><br>Frontend:<br>HTML • CSS • JavaScript<br><br>Backend:<br>.NET • C#<br><br>Tools:<br>Git • GitHub • VS Code • Visual Studio<br><br>---<br><br>## 📚 Currently Working On<br><br>- Responsive websites<br>- JavaScript basics<br>- Beginner .NET projects<br>- Improving problem-solving skills<br><br>---<br><br>## ⚡ About Me<br><br>- Passionate about technology and coding<br>- Love learning new things<br>- Beginner developer with big goals 🚀<br><br>---<br><br><p align="center"><br>  Learning • Building • Growing 💻<br></p>
+<h1 align="center">👋 Hi, I'm Pritam Chaudhary</h1>
 
+<h3 align="center">🌱 Beginner Full Stack Developer | HTML • CSS • JavaScript • .NET</h3>
+
+---
+
+<p align="center">
+  💻 Learning to build modern web applications<br>
+  🚀 Passionate about improving every day<br>
+  🎯 Goal: Become a skilled Full Stack .NET Developer
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🌱 Currently learning **HTML, CSS, JavaScript, and .NET**
+- 💻 Enjoy building simple and practical projects
+- ⚡ Love exploring how web applications work
+- 📚 Learning step-by-step through real coding practice
+- 🚀 Focused on becoming a Full Stack Developer
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Frontend  → HTML • CSS • JavaScript
+Backend   → .NET • C#
+Tools     → Git • GitHub • VS Code
